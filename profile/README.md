@@ -16,3 +16,8 @@ https://github.com/user-attachments/assets/ae3d5e78-9622-41d3-86f2-4c3297ed8c65
 ## Architecture
 
 ![architecture](https://github.com/user-attachments/assets/d1dabbb5-0dbf-4761-8c0c-8bf6d0117ae0)
+
+
+## User Flow Diagram
+
+![image](https://github.com/user-attachments/assets/55e438c8-432a-40a2-8f7e-0718b9fb5201)
