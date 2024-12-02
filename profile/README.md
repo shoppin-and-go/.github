@@ -20,4 +20,4 @@ https://github.com/user-attachments/assets/ae3d5e78-9622-41d3-86f2-4c3297ed8c65
 
 ## User Flow Diagram
 
-![image](https://github.com/user-attachments/assets/55e438c8-432a-40a2-8f7e-0718b9fb5201)
+![image](https://github.com/user-attachments/assets/38e1b34e-4f30-4e22-b6c2-025c545e045a)
