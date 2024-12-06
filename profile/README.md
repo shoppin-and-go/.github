@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/ae3d5e78-9622-41d3-86f2-4c3297ed8c65
 - 카트에 상품이 추가되었을 때, DB에 재고를 반영하고 웹소켓을 통해 앱으로 변경 내역을 전송합니다.
 - 앱에서 실시간으로 변경되는 재고의 정보과 가격을 확인할 수 있습니다.
 
-## [서비스 체험해보기 (클릭)](https://shoppin-and-go.github.io/frontend/)
+## [서비스 체험하러 가기 (클릭)](https://shoppin-and-go.github.io/frontend/)
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="https://github.com/user-attachments/assets/a78e132b-0885-4907-8872-00a145ff9528" alt="demo_cart" width="200"/>
