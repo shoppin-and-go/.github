@@ -1,3 +1,21 @@
+## [서비스 체험해보기 (클릭)](https://shoppin-and-go.github.io/frontend/)
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="https://github.com/user-attachments/assets/a78e132b-0885-4907-8872-00a145ff9528" alt="demo_cart" width="170"/>
+    <div style="margin-left: 20px;">
+        데모의 카트 화면예시입니다.<br/>
+        사물 인식을 대신 하여, 우측 상단 버튼을 통해 가상의 카트에 상품을 추가/삭제해볼 수 있습니다.
+    </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/user-attachments/assets/8bd70a54-12bd-4a98-9e8f-e4345404581b" alt="demo_buttons" width="200"/>
+    <div style="margin-left: 20px;">
+        좌측 버튼을 누르면, 가상 카트의 카메라 앞에서 무작위의 물품을 추가합니다.<br/>
+        우측 버튼을 누르면, 가상 카트의 카메라 앞에서 무작위의 물품을 제거합니다.
+    </div>
+</div>
+
 # Shoppin&Go: AI 기반 실시간 쇼핑 추적 서비스
 카메라를 이용한 실시간 물체 인식을 통해 잠바구니의 상품을 추적하고 관리하는 서비스입니다.
 
@@ -21,5 +39,3 @@ https://github.com/user-attachments/assets/ae3d5e78-9622-41d3-86f2-4c3297ed8c65
 ## User Flow Diagram
 
 ![image](https://github.com/user-attachments/assets/61fda617-7326-49c4-a309-132adf24eb2a)
-
-## [서비스 체험헤보기](https://shoppin-and-go.github.io/frontend/)
