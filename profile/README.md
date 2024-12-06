@@ -1,7 +1,7 @@
 ## [서비스 체험해보기 (클릭)](https://shoppin-and-go.github.io/frontend/)
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="https://github.com/user-attachments/assets/a78e132b-0885-4907-8872-00a145ff9528" alt="demo_cart" width="170"/>
+    <img src="https://github.com/user-attachments/assets/a78e132b-0885-4907-8872-00a145ff9528" alt="demo_cart" width="200"/>
     <div style="margin-left: 20px;">
         데모의 카트 화면예시입니다.<br/>
         사물 인식을 대신 하여, 우측 상단 버튼을 통해 가상의 카트에 상품을 추가/삭제해볼 수 있습니다.
